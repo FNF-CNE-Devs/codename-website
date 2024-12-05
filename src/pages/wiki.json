@@ -7,7 +7,7 @@
     ["modding/index", "Modding The Engine", [
         ["songs/index", "Creating songs", [
             ["editor-features", "Chart Editor Features"],
-            ["events", "Chart Events - UNFINISHED"],
+            ["events", "Chart Events"],
             ["displaying-songs", "Displaying Songs - UNFINISHED"]
         ]],
         ["characters/index", "Creating characters", [
